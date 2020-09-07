@@ -1,1 +1,3 @@
-# C-Testnet-Draft-
+# C-Testnet-Draft
+
+Here is some intro text ...
